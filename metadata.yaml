@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5889
 description: 'A collection of three character studies of some of the most influential
   military minds in history: Sir Francis Drake, Horatio Nelson and Napoleon Bonaparte.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15299#Drake-Nelson-and-Napoleon
 gutenberg_bookshelf:
 - France
 - Napoleonic(Bookshelf)
