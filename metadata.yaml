@@ -1,0 +1,35 @@
+_repo: Drake-Nelson-and-Napoleon_15299
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Runciman, Walter Runciman, Baron
+    alias: Runciman, Walter, Sir
+    birthdate: 1847
+    deathdate: 1937
+    gutenberg_agent_id: '5889'
+    url: http://www.gutenberg.org/2009/agents/5889
+description: 'A collection of three character studies of some of the most influential
+  military minds in history: Sir Francis Drake, Horatio Nelson and Napoleon Bonaparte.'
+gutenberg_bookshelf:
+- France
+- Napoleonic(Bookshelf)
+gutenberg_issued: '2005-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15299'
+  lccn: '20006297'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drake, Francis, approximately 1540-1596'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Knowledge -- Naval art and
+  science'
+- !lcc 'D'
+- !lcsh 'Nelson, Horatio Nelson, Viscount, 1758-1805 -- Military leadership'
+title: Drake, Nelson and Napoleon
+url: http://www.gutenberg.org/ebooks/15299
